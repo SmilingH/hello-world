@@ -1,2 +1,3 @@
 # hello-world
-Just Another Repository
+Hello GitHub,
+I am an Arduino enthusiast an very basic HTML and Python programmer
